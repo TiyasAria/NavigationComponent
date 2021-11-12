@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NavigationComponent</string>
+    <string name="txt_hello">Hello Home Fragment</string>
+    <string name="txt_category">To Category</string>
+    <string name="txt_profile">To profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="txt_category_detail">This is category</string>
+    <string name="txt_profile_detail">This is Profile</string>
+    <string name="category_lifestyle">Category Lifestyle</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_is_the_desc">This is the desc</string>
+    <string name="back_home">Back Home</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Menu 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
